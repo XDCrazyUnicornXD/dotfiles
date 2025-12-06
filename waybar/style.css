@@ -32,7 +32,7 @@ tooltip label {
     border-bottom: 3px solid white;
 }
 
-#mode, #clock, #hyprland, #pulseaudio{
+#mode, #clock, #workspaces, #pulseaudio, #window{
     padding: 0 5px;
     margin: 5px;
 }
@@ -42,7 +42,7 @@ tooltip label {
     border-bottom: 3px solid white;
 }
 
-#clock, #workspaces, #pulseaudio {
+#clock, #workspaces, #pulseaudio, #window{
     background-color: #fc72fc;
     border-radius: 15px;
 }
