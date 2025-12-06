@@ -1,2 +1,4 @@
-Using wofi as application launcher and nemo for file manager.
-hyprpaper for background.
+Using wofi as application launcher
+Nemo - file manager
+hyprpaper for background
+Kitty - terminal
