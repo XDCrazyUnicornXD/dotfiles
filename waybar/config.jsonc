@@ -1,6 +1,6 @@
 {
 	"layer": "top",
-	"modules-right": ["pulseaudio", "clock"],
+	"modules-right": ["battery", "pulseaudio", "clock"],
 
 	"modules-left": ["hyprland/workspaces"],
 
@@ -13,5 +13,10 @@
 	"pulseaudio": {
 		"format": "{icon}{volume}%",
 		"format-icons": ["🔈"]
+	},
+
+	"battery":{
+		"format": "{capacity}% {icon}",
+		"format-icons": ["🔋"]
 	}
 }
