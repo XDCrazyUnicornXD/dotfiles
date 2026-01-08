@@ -43,6 +43,6 @@ tooltip label {
 }
 
 #clock, #workspaces, #pulseaudio, #window, #battery{
-    background-color: #fc72fc;
+    background-color: #cf1a55;
     border-radius: 15px;
 }
